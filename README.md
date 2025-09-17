@@ -1,69 +1,60 @@
-### Hi there 👋
+# 👋 Hey, I'm Shivam  
 
+💡 Cybersecurity Enthusiast | 🤖 AI + GPT Researcher  
 
-I am [Shivam](https://www.linkedin.com/in/shivam-pandey-973612250/), a passionate AWS cloud, DevOps Engineer and Freelancer. 🎯
+---
 
-I mostly work with DevOps and Cloud based technologies. 🚀
+### 🚀 About Me  
+- 🔐 Exploring the world of **offensive & defensive cybersecurity**  
+- 🤖 Experimenting with **transformers, LLMs, and AI-agent frameworks**  
+- ☁️ Strong background in **AWS & DevOps pipelines**  
+- 🧩 Always learning, breaking, and building systems  
 
+Check out my projects here: [thisishivam](https://github.com/thisishivam)  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/thisishivam13/)  
 
-### Programming
-<p float="left">
-  <a href="https://python.org/" target="_blank" >
-    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
-  </a>
-   <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP"          
-    height="90" />
-   </a>
-   <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="90" /></a>
-  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
-  </a>
- </p>
-  
-### DevOps
-  
- <p float="left">
-   
-  <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="90" />
-  </a>
+---
 
-   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="90" /> 
-  </a>
-  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="90" />
-  </a>
-   <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="90" /></a>
-   <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="90" /></a>
-   <a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="90" /></a>
-   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="90" /></a>
-  
- </p>
-  
-### Databases and Monitoring
-  
-  <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="90" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="90" /></a>
-  </a>
-    <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://www.logolynx.com/images/logolynx/cf/cf72126a3551b816d617a06ffb01388b.png" height="90" />
-  </a>
-  
-</p>
+### 🛡️ Cybersecurity & AI Focus  
+- **Penetration Testing** | Network Security | Malware Analysis  
+- **Generative AI** | GPT | Prompt Engineering | AI Agents  
+- **Applied Research**: Merging **security + AI** for the next wave of tools  
 
-### Scripting
+---
 
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="90" /></a>
-  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="90" /></a>
-  </a>
-    <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="90" /></a>
-  
-</p>
+### 🧑‍💻 Tech Stack  
+**Programming & Scripting:**  
+![Python](https://img.shields.io/badge/Python-blue?logo=python)  
+![Bash](https://img.shields.io/badge/Bash-black?logo=gnu-bash)  
+![PowerShell](https://img.shields.io/badge/Powershell-blue?logo=powershell)  
 
-### 📫 How to reach me?
+**Cybersecurity Tooling:**  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-blue?logo=kalilinux)  
+![Metasploit](https://img.shields.io/badge/Metasploit-lightgrey)  
+![Burp Suite](https://img.shields.io/badge/BurpSuite-orange)  
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?logo=wireshark)  
 
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/shivam-pandey-973612250/) 👨🏻‍💻
- - Follow me on [Instagram](https://www.instagram.com/FreelanceDevOps/) ✨
- - Discord Server [Discord](https://discord.gg/2DsDhqS6) ✨
- - Shoot Me an [Email](mailto:shivampnd887@gmail.com) 💌
+**AI/ML:**  
+![PyTorch](https://img.shields.io/badge/PyTorch-orange?logo=pytorch)  
+![Transformers](https://img.shields.io/badge/Transformers-yellow?logo=huggingface)  
+![LangChain](https://img.shields.io/badge/LangChain-black)  
+
+**Cloud (Roots):**  
+![AWS](https://img.shields.io/badge/AWS-orange?logo=amazon-aws)  
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)  
+![Terraform](https://img.shields.io/badge/Terraform-purple?logo=terraform)  
+
+---
+
+### 📌 Current Goals  
+- 🔍 Build **AI-powered cybersecurity tools**  
+- 📚 Deep dive into **transformer architectures**  
+- 🛠️ Contribute to **open-source AI + Security projects**  
+
+---
+
+### ⚡ Fun Fact  
+I break things to learn how to secure them, and I train AI models to learn how to improve them.  
+
+---
