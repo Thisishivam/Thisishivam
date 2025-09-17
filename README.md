@@ -58,3 +58,10 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/thisishivam13/)
 I break things to learn how to secure them, and I train AI models to learn how to improve them.  
 
 ---
+
+### 📫 Let's Connect
+
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/thisishivam13/) 👨🏻‍💻
+ - Comment on my [Twitter](https://x.com/thisishivam_11)
+ - Notes-Website [Website](https://thisishivam.github.io/IdeaOrbit/)
+ - Shoot Me an [Email](mailto:shivampnd887@gmail.com) 💌
